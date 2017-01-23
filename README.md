@@ -27,6 +27,10 @@ Nodejs
 
 maps for everything?
 
+consider a subset of apache isis annotations (http://isis.apache.org/guides/rgant.html) as a starting point for json metadata formats.
+
+
+
 
 # Development Tools
 ## atom
