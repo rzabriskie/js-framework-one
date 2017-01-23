@@ -33,6 +33,9 @@ consider a subset of apache isis annotations (http://isis.apache.org/guides/rgan
 
 
 # Development Tools
+
+Ansible, Puppet, Chef, 
+
 ## atom
 Packages
 
